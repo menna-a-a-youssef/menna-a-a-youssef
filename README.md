@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @menna-a-a-youssef
-- 👀 I’m interested in front-end and ui development
-- 🌱 I’m currently learning react and have working experience with angular and vue.js
+- 👀 I’m interested in Front-End and UI development
+- 🌱 I have working experience with React, Angular and Vue.js
 - 📫 How to reach me menna.a.a.youssef@gmail.com
